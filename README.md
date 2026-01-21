@@ -1,8 +1,6 @@
 # Immersive 3D Virtual Economy Visualization Platform
 
-## Tech Stack
-
-### Core
+### Tech Stack
 - **Language:** TypeScript
 - **Framework:** React v19
 - **Bundler:** Vite
@@ -34,5 +32,3 @@ npm install vite --save-dev
 ```bash
 npm run dev
 ```
-node -v
-npm -v
