@@ -12,8 +12,6 @@
 - D3.js
 - Google Generative AI (`gemini-3-flash-preview`)
 
----
-
 ## Installation
 ```bash
 npm install react react-dom
